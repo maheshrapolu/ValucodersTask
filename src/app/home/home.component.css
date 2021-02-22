@@ -1,0 +1,28 @@
+.container{
+box-sizing: border-box;
+}
+.borderClass{
+border:1px solid black;
+align-items: center;
+box-shadow: 10px 10px #e2dfdf;
+
+}
+.searchText{
+    padding: 0;
+    line-height: 1.4;
+    font-size: 28px;
+    font-weight: inherit;
+    display: inline-block;
+    color: blue;
+}
+h3{
+    padding: 0;
+    line-height: 1.4;
+    font-size: 28px;
+    font-weight: inherit;
+    display: inline-block;
+}
+.descriptionClass{
+    position: relative;
+    left: 79px;
+}
